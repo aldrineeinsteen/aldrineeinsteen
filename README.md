@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aldrineeinsteen
 - 👀 I’m interested in anything that runs on binary or qubits
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on any interesting banking or finanicial service
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on any interesting banking or financial service
 - 📫 How to reach me aldrine.einsteen@hotmail.com
 
 <!---
